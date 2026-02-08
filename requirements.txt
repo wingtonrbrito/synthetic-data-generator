@@ -1,0 +1,4 @@
+matplotlib>=3.8
+pandas>=2.1
+pytest>=7.0
+supabase>=2.0
